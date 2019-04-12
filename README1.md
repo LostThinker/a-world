@@ -122,4 +122,9 @@ with tf.Session() as sess:
         pylab.imshow(im)
         pylab.show()
 ```
-
+### 效果图：
+![image](https://github.com/qianlongql/a-world/blob/master/6.PNG)
+<br>
+输出了十张测试集的图片
+准确率比全连接要高一些
+大功告成!
