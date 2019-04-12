@@ -112,5 +112,11 @@ with tf.Session() as sess:
     pylab.imshow(im)
     pylab.show()
 ```
-
-    
+效果图：
+<br>
+![image](https://github.com/qianlongql/a-world/blob/master/g.PNG)
+ 
+ 
+ 正确率为0.9622
+ 输出[1,6]为预测值
+ 还是非常准确的哈^_^
